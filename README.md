@@ -20,7 +20,7 @@ Blockchain security, digital asset custody, cryptographic key management, and op
 
 I explore the intersection of cybersecurity leadership, emerging technology, risk, and business resilience through independent research, practical frameworks, and industry perspectives.
 
-- **Website:** https://santhoshpillai.com
+- **Website:** https://santoshpillai.com
 - **LinkedIn:** https://www.linkedin.com/in/santhoshk1
 - **THE CISO EDGE:** https://www.linkedin.com/newsletters/the-ciso-edge-7368566356662841344/
 
