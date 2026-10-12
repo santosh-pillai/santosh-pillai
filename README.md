@@ -1,4 +1,4 @@
-# Santhosh Pillai
+# Santosh Pillai
 ### Cybersecurity Leadership | AI Security & Governance | Emerging Technology Risk
 
 Cybersecurity leader with 15+ years of experience across information security, cyber risk management, governance, compliance, and security transformation.
